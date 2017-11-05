@@ -1,0 +1,40 @@
+.location-form {
+    width: 100%;
+}
+
+.input {
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.input-label {
+    padding-top: 1em;
+}
+
+.gameId-input {
+    width: 70%;
+    text-align: center;
+    color: #000;
+}
+
+@media screen 
+    and (min-device-width: 1200px) 
+    and (max-device-width: 1600px) 
+    and (-webkit-min-device-pixel-ratio: 1) { 
+        .one-third{
+            display: inline-block;
+            width: 30%;
+            padding: 0 1em;
+        }
+} 
+
+.glink, .glink:visited{
+    color: #0092FF;
+}
+
+.glink:hover{
+    color: #0092FF;
+    background-color: #fff;
+}
+

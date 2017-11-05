@@ -1,0 +1,21 @@
+.leaderboard {
+    text-align: left;
+    margin: auto;
+}
+
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+.numder {
+    width: 8%;
+}
+.name {
+    width: 45%;
+}
+.time {
+    width: 21%;
+}
+.date {
+    width: 25%;
+}

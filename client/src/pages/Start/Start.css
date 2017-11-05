@@ -1,0 +1,14 @@
+.game-name {
+    margin: 5em auto 3em auto;
+    text-align: center;
+}
+
+form {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.start-header {
+    margin-top: 2em;
+}
